@@ -6,13 +6,13 @@
 npx create-next-app@latest
 ```
 
-- [ ] Install Hono
+- [x] Install Hono
 
 ```bash
 npm install hono
 ```
 
-- [ ] create api route (src/app/api/[[...route]]/route.ts)
+- [x] create api route (src/app/api/[[...route]]/route.ts)
 
 example:
 
